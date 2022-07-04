@@ -1,0 +1,3 @@
+{:paths ["src"]
+ :deps  {dk.simongray/datalinguist                {:mvn/version "0.2.171"}
+         edu.stanford.nlp/stanford-corenlp$models {:mvn/version "4.4.0"}}}
